@@ -1,0 +1,6 @@
+[submodule "LibraryManagementClient"]
+	path = LibraryManagementClient
+	url = git@github.com:vinyselopal/LibraryManagementClient.git
+[submodule "LibraryManagementServer"]
+	path = LibraryManagementServer
+	url = git@github.com:vinyselopal/LibraryManagementServer.git
