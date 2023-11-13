@@ -1,5 +1,5 @@
 # LibraryManagement
-# Library Management client using Django and React
+# Library Management app using Django and React
 
 ## Functionalities:
 
